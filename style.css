@@ -1,0 +1,48 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.topo {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.topo h1 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.topo h2 {
+    font-size: 16px;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ccc;
+}
+
+.rodape {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Estilos específicos para cada página */
+.home {
+    background-color: #f8f9fa;
+}
+
+.sobre, .receitas, .contato {
+    background-color: #fff;
+    padding: 20px;
+}
